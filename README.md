@@ -11,7 +11,7 @@ A Python tool to work with RSA encryption 🔑. It allows you to:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/mohammedmehdio/RSA.git
-cd your-repo
+cd RSA
 ```
 
 ### 2️⃣ Make the Script Executable
